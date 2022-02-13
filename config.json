@@ -1,0 +1,29 @@
+{
+    "discordContainer":"```",
+
+    "discordShortcut":["f5"],
+
+    "alerts":{ 
+        "destroyed" : "@here",
+        "killed" : "@here",
+        "starved" : "@here",
+        "detected" : "@here"
+    },
+
+    "screen":{ 
+        "width" : 1920,
+        "height" : 1080,
+
+        "topLeftCornerLogsX" : 183,
+        "topLeftCornerLogsY" : 1342,
+        "bottomRightCornerLogsX" : 990,
+        "bottomRightCornerLogsY" : 1780,
+
+        "topLeftCornerLogsIconX" : 96,
+        "topLeftCornerLogsIconY" : 1339,
+        "bottomRightCornerLogsIconX" : 138,
+        "bottomRightCornerLogsIconY" : 1495
+    },
+
+    "tesseractLocation": "C:/Program Files/Tesseract-OCR/tesseract.exe"
+}
